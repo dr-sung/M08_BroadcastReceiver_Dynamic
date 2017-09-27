@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">M08_BroadcastReceiver_Dynamic</string>
+    <string name="button1_label">Send Broadcast (DEMO1)</string>
+    <string name="button2_label">Send Broadcast (DEMO2)</string>
+    <string name="custom_intent">edu.uco.hsung.BROADCAST_DEMO1</string>
+    <string name="custom_intent2">edu.uco.hsung.BROADCAST_DEMO2</string>
+
+</resources>
